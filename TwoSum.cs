@@ -1,6 +1,13 @@
-﻿using System;
+﻿/*
+LeetCode Problem: 1. Two Sum
+Link: https://leetcode.com/problems/two-sum/
 
+Description:
+Given an array of integers nums and an integer target,
+return indices of the two numbers such that they add up to target.
+*/
 
+using System;
 public class Solution
 {
     public int[] TwoSum(int[] nums, int target)
